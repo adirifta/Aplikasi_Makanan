@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Aplikasi Makanan</string>
+    <string name="back">Kembali</string>
+    <string name="detail">Kembali</string>
 </resources>
